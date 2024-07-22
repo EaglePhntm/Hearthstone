@@ -156,10 +156,9 @@
 					/obj/item/quiver/bolts,
 				)
 
-/*
 /datum/supply_pack/rogue/weapons/Parrows
 	name = "Poisoned Arrows"
-	cost = 20
+	cost = 30
 	contains = list(/obj/item/ammo_casing/caseless/rogue/arrow/poison,
 					/obj/item/ammo_casing/caseless/rogue/arrow/poison,
 					/obj/item/ammo_casing/caseless/rogue/arrow/poison,
@@ -177,7 +176,6 @@
 					/obj/item/ammo_casing/caseless/rogue/arrow/poison,
 					/obj/item/ammo_casing/caseless/rogue/arrow/poison,
 					/obj/item/ammo_casing/caseless/rogue/arrow/poison)
-*/
 
 /datum/supply_pack/rogue/weapons/bolt
 	name = "Bolts"
